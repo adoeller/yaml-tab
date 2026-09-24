@@ -1,5 +1,7 @@
 # yamltab
 
+![prev](IMG_20260924_222617.jpg)
+
 yamltab is a Total Commander Lister plugin for viewing YAML (`.yaml`, `.yml`)
 and TOML (`.toml`) files. It provides a tree, a sortable and filterable grid,
 and a source-text tab. Its interface is available in English, German, Russian,
