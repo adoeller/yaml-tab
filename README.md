@@ -1,5 +1,8 @@
 # yamltab
 
+![text](yaml-text.png)
+![tree](yaml-tree.png)
+![list](yaml-list.png)
 ![prev](IMG_20260924_222617.jpg)
 
 yamltab is a Total Commander Lister plugin for viewing YAML (`.yaml`, `.yml`)
